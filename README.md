@@ -76,4 +76,4 @@ segurocali/
 Desarrollado en Cali 🇨🇴 — 2026
 =======
 Civic tech platform for real-time safety alerts, anonymous reports, and risk visualization in Cali, Colombia.
->>>>>>> b0342fc48fb07ea8e0fe5e747eb5345283008708
+
