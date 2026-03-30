@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///home/kharimcaballero/Descargas/segurocali/app/page.jsx"],"sourcesContent":["import SeguroCali from \"./components/SeguroCali\";\n\nexport const metadata = {\n  title: \"SeguroCali — Seguridad ciudadana en tiempo real\",\n  description: \"Plataforma de alertas y prevención de violencia para Cali, Colombia.\",\n};\n\nexport default function Page() {\n  return <SeguroCali />;\n}\n"],"names":["metadata","title","description","Page","SeguroCali"],"mappings":";;;;;;;;;;;;;;AAEO,MAAMA,WAAW;IACtBC,OAAO;IACPC,aAAa;AACf;AAEe,SAASC;IACtB,qBAAO,8OAACC;;;;;AACV"}}]
+}
